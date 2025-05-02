@@ -86,3 +86,4 @@
   </footer>
 </body>
 </html>
+<img src="logo-sn.png" alt="Logo Sahel Numérique" class="logo">
